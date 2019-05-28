@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trustnote/CordovaClipboard.git"
+    "url": "git+https://github.com/ringnetwork/CordovaClipboard.git"
   },
   "keywords": [
     "cordova",
@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trustnote/CordovaClipboard/issues"
+    "url": "https://github.com/ringnetwork/CordovaClipboard/issues"
   },
-  "homepage": "https://github.com/trustnote/CordovaClipboard#readme"
+  "homepage": "https://github.com/ringnetwork/CordovaClipboard#readme"
 }
